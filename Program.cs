@@ -8,11 +8,32 @@ namespace SearchAlgorithmsGraph
     {
         static void Main(string[] args)
         {
-            GraphCreator [] graphs = new GraphCreator[2];
-            graphs[0] = new UndirectedGraph();
-            graphs[1] = new DirectedGraph();
+            GraphCreator [] graphs = new GraphCreator[1];
+            
+            Menu();
 
-            graphs.ToList().ForEach(graph => Console.WriteLine(graph.GetType().Name + " was successfully generated.\n"));
+            Console.Write("\nChose one option: ");
+            int option = Int32.Parse(Console.ReadLine());
+
+            switch(option)
+            {
+                case 1: 
+                    graphs[0] = new UndirectedGraph();
+                    break;
+                case 2:
+                    graphs[0] = new DirectedGraph();
+                    break;
+            }
+
+            Console.WriteLine(graphs[0].GetType().Name + " was successfully generated!");            
+        }
+
+        static void Menu()
+        {
+            Console.WriteLine("Graph Generator Options");
+
+            Console.WriteLine("1 - Generate undirected graph: ");
+            Console.WriteLine("2 - Generate directed graph");
         }
     }
 }
