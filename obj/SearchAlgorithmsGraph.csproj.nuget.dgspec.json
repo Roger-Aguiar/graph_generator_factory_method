@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\SearchAlgorithmsGraph\\SearchAlgorithmsGraph.csproj": {}
+    "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\GraphGeneratorFactoryMethod\\SearchAlgorithmsGraph.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\SearchAlgorithmsGraph\\SearchAlgorithmsGraph.csproj": {
+    "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\GraphGeneratorFactoryMethod\\SearchAlgorithmsGraph.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\SearchAlgorithmsGraph\\SearchAlgorithmsGraph.csproj",
+        "projectUniqueName": "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\GraphGeneratorFactoryMethod\\SearchAlgorithmsGraph.csproj",
         "projectName": "SearchAlgorithmsGraph",
-        "projectPath": "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\SearchAlgorithmsGraph\\SearchAlgorithmsGraph.csproj",
+        "projectPath": "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\GraphGeneratorFactoryMethod\\SearchAlgorithmsGraph.csproj",
         "packagesPath": "C:\\Users\\Roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\SearchAlgorithmsGraph\\obj\\",
+        "outputPath": "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\GraphGeneratorFactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

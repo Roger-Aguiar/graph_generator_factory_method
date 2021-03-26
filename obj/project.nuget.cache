@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7L95RLMAXAre2+oXb++Yl1aLIKuDaXgzoPxa6LULNhDUoYab6RjYfvdpaU8UGZfozIA5rSQMDzVubgjjsx6pEg==",
+  "dgSpecHash": "CvTXUimvQ1wo9f3pm9a/ZXzwyPIjvjjZHT988Im7Hncy5PtlB9OXi9KojNbQve5xdn8kC0kXl6GfryR627VDwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\SearchAlgorithmsGraph\\SearchAlgorithmsGraph.csproj",
+  "projectFilePath": "C:\\Users\\Roger\\Documents\\Studies\\CSharp\\ConsoleApps\\GraphGeneratorFactoryMethod\\SearchAlgorithmsGraph.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
