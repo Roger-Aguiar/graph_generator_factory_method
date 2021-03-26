@@ -8,10 +8,11 @@ namespace SearchAlgorithmsGraph
     {
         static void Main(string[] args)
         {
-            GraphCreator [] graphs = new GraphCreator[1];
+            GraphCreator [] graphs = new GraphCreator[2];
             graphs[0] = new UndirectedGraph();
+            graphs[1] = new DirectedGraph();
 
-            graphs.ToList().ForEach(graph => Console.WriteLine(graph.GetType().Name + " was successfully generated."));
+            graphs.ToList().ForEach(graph => Console.WriteLine(graph.GetType().Name + " was successfully generated.\n"));
         }
     }
 }
