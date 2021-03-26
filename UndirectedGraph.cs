@@ -4,7 +4,9 @@ class UndirectedGraph : GraphCreator
 {    
     public override void CreateGraph()
     {
+        Console.WriteLine("Undirected Graph Generator\n");
         Console.Write("Enter the number of vertices: "); 
+        
         int numberOfVertices = Int32.Parse(Console.ReadLine());
 
         int [,] graph = new int[numberOfVertices, numberOfVertices];
@@ -32,6 +34,6 @@ class UndirectedGraph : GraphCreator
                 }
                 layout+= "\n";
             }
-            return layout;
+        return layout;
     }
 }
